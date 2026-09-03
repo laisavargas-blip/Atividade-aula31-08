@@ -1,0 +1,10 @@
+{
+  "scripts": {
+
+    "dev" : "node --watch                      src/serve.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }, 
+  "tpye": "module"
+}
